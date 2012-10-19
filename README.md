@@ -10,8 +10,6 @@ http://feeds.delicious.com/rss/tag/system:filetype:gif feed, download the
 images, and then determine if they were animated gifs. If they were, they would
 be uploaded to Amazon S3, inserted into a database, and presented on a webpage.
 
-Unforunately I had to shut it down because the gif feed no longer exists.
-
 Setup
 -------
 
